@@ -69,7 +69,7 @@ npm run dev
 # 📝 Future Scope
 📱 Mobile version using Expo + React Native
 
-🪙 Cryptocurrency spending insights
+🪙 Global currency spending insights
 
 🤖 Personalized financial assistant chatbot
 
